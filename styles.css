@@ -9,7 +9,7 @@ h1 {
 h2 {
     font-size: 24px;
     font-weight: bold;
-    color: #74b5ff;
+    color: #0053b3;
 }
 h3 {
     font-size: 18px;
@@ -24,7 +24,7 @@ h4 {
 h5 {
     font-size: 18px;
     font-weight: bold;
-    color: #05d5e4;
+    color: #e405a1;
 }
 h6 {
     font-size: 18px;
@@ -69,7 +69,8 @@ footer {
     clear: both;
 }
 body{
-    background-image: url("1737706029291.jpg");
+    background-image: url("bg-all.png");
+    
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
